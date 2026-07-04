@@ -1,1 +1,68 @@
-Hi 👋, I'm Vinod T R 💻 Aspiring Software Developer | Full Stack Developer | AI and ML Engineer | Data Science Enginner | Data Analysist | Data Enthusiast 📍 India 🎯 Focused on building real-world projects and cracking Job 🚀 About Me 🎓 B.Tech (CSE) 🌱 Currently learning: Java, Python, SQL, Data Analysis, DSA, HTML, CSS, JavaScript, React 💡 Interested in: Data Science, Backend Development, AI, Full Stack Development, ML, Frontend Development 📊 Strong in: Problem solving & analytical thinking 🔍 Actively looking for: Job Opportunities 🛠️ Skills Python Java SQL Javascript HTML CSS React Springboot 💻 Programming Languages Python Java SQL Javascript 📊 Data & Analytics Pandas NumPy Power BI Excel ☁️ Tools & Technologies Databricks (Learning) Snowflake (Learning) Git & GitHub 🌐 Web Basics HTML CSS JavaScript 📂 Projects 🔹 Healthcare Chatbot AI-based symptom checker chatbot Built using Python & NLP Provides basic health guidance 🔹Attendence Marking System Built using ML IT Automatically mark attendence using pic or streaming video 🔹 SMS Spam Classification Detects spam messages using Machine Learning Implemented using Python 🔹 Employee Attrition Analyzing Dashboard Analyzes Employeee data Visualizes insights for better decision-making 📈 GitHub Stats Vinod's GitHub stats 📫 Connect with Me LinkedIn: www.linkedin.com/in/vinod-t-r-42a619243 Email: (Add your email) ⚡ Fun Fact I enjoy solving coding problems and continuously improving my skills 🚀 Popular repositoriesLoading Playwright-automation-script Public Script Public employee_attrition_analysis Public Python Emoji-Predictor-Based-on-Text-Sentiment Public Python bootstrap5-responsive-website Public HTML HTML Public 27 contributions in the last year Skip to contributions year list Contribution Graph Day of Week JulyJul AugustAug SeptemberSep OctoberOct NovemberNov DecemberDec JanuaryJan FebruaryFeb MarchMar AprilApr MayMay JuneJun SundaySun MondayMon TuesdayTue WednesdayWed ThursdayThu FridayFri SaturdaySat Learn how we count contributions Less No contributions. Low contributions. Medium-low contributions. Medium-high contributions. High contributions. More Contribution activity July 2026 vinod65 has no activity yet for this period. Loading <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;React+Frontend+Developer;Building+Secure+%26+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+👋 Hi, I'm Vinod T R
+
+Software Developer | Full Stack Developer | AI & ML Engineer
+
+[LinkedIn] [Email] [Portfolio] [GitHub]
+
+────────────────────────────────
+
+🛠 Tech Stack
+
+(Java) (Python) (Spring Boot) (React)
+(SQL) (Git) (GitHub) (Power BI)
+(Databricks) (Snowflake)
+
+────────────────────────────────
+
+🚀 What I Do
+
+Backend        Frontend      AI/ML
+REST API       React         Machine Learning
+Spring Boot    HTML/CSS      NLP
+SQL            JavaScript    Data Analytics
+
+────────────────────────────────
+
+📂 Featured Projects
+
+🏥 Healthcare Chatbot
+[Live Demo] [Source]
+
+🤖 Attendance System
+[Source]
+
+📩 SMS Spam Detection
+[Source]
+
+📊 Employee Dashboard
+[Source]
+
+────────────────────────────────
+
+🏆 Certifications
+
+Microsoft AI-900
+IBM
+NPTEL
+LinkedIn
+Udemy
+
+────────────────────────────────
+
+📈 GitHub Stats
+
+(Streak)
+(Language)
+(Graph)
+
+────────────────────────────────
+
+📫 Let's Connect
+
+LinkedIn
+Email
+GitHub
+
+────────────────────────────────
+
+⭐ Thanks for Visiting
