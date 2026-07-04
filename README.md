@@ -1,8 +1,4 @@
-Yes! Instead of using the default animation, make it personalized to your profile.
 
-Use this at the top of your README.md.
-
-<div align="center">
 
 # 👋 Hi, I'm Vinod T R
 
@@ -43,4 +39,4 @@ Data Science & Data Analytics
 Java | Python | Spring Boot | React
 Always Learning & Building 🚀
 
-This style looks clean, modern, and is commonly used in professional GitHub profiles.
+This style looks clean, modern, and is commonly used in professional GitHub profiles.etla
