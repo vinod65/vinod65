@@ -212,23 +212,43 @@ A data analytics project designed to identify factors influencing employee attri
 
 ---
 
-# 📊 GITHUB ACTIVITY
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinod65&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<a href="https://github.com/vinod65">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vinod65&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinod65&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<a href="https://github.com/vinod65">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinod65&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 </div>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vinod65&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=vinod65&theme=tokyonight&hide_border=true&border_radius=12" width="70%" />
+
+</div>
+
+---
+
+# 🚀 My GitHub
+
+<div align="center">
+
+**💻 Building projects**
+
+**📚 Learning new technologies**
+
+**🔥 Consistently improving**
+
+**🎯 Preparing for real-world software engineering**
 
 </div>
 
