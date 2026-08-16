@@ -263,15 +263,19 @@ A data analytics project designed to identify factors influencing employee attri
 </div>
 
 ---
-
-# 📈 3D CONTRIBUTION GRAPH
+# 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/profile/vinod65/3d-contrib/profile-night-rainbow.svg" width="95%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinod65&theme=tokyonight&hide_border=true)](https://github.com/vinod65)
+
+<br/>
+
+<a href="https://github.com/vinod65">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinod65&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</a>
 
 </div>
-
 ---
 
 # 🎯 CAREER GOAL
